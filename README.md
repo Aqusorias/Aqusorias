@@ -32,11 +32,11 @@
 
 ###
 
-<p align="left">I'm Aqusorias and I am from Austria.<br><br>- 🔭 I’m currently a student in electrical engineering, tho I'll be student in IT in September, where I'll learn Java, C# and more.<br>- 📚 I'm currently learning Python, Javascript, CSS, HTML. Also I'm working on a game in Unreal Engine 5.3.2. <br>- ⚡ In my free time I draw (which I also post on my Instagram Account), I'm playing Piano, I'm playing video games and I do parkour.</p>
+<p align="left">I'm Aqusorias and I am from Austria.<br><br>- 🔭 I’m currently a student in electrical engineering, tho I'll be student in IT in September, where I'll learn Java, C# and more.<br>- 📚 I'm currently learning Python, Javascript, CSS, HTML. Also I was working on a game in Unreal Engine 5.3.2, but that's abandonent for now. <br>- ⚡ In my free time I draw (which I post on my Instagram Account), I'm playing Piano, I'm playing video games and I do parkour.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 

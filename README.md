@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Aqusorias and I am from Austria.<br><br>- 🔭 I’m currently a student in electrical engineering, tho I'll be student in IT in September, where I'll learn Java, C# and more.<br>- 📚 I'm currently learning Python, Javascript, CSS, HTML. Also I was working on a game in Unreal Engine 5.3.2, but that's abandoned for now. <br>- ⚡ In my free time I draw (which I post on my Instagram Account), I'm playing Piano, I'm playing video games and I do parkour.</p>
+<p align="left">I'm Aqusorias and I am from Austria.<br><br>- 🔭 I’m currently a student in Information Technology, where I primarily learn Java, C#, and more.<br>- 📚 I'm currently learning Java, C#, as mentioned before, and Python, Javascript, CSS & HTML. Also I was working on a game in Unreal Engine 5.3, but that's abandoned for now. <br>- ⚡ In my free time I draw (which I post on my Instagram Account), I'm playing video games and I do parkour.</p>
 
 ###
 

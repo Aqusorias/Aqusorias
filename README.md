@@ -6,11 +6,11 @@
 <div align="center">
   <a href="https://steamcommunity.com/id/Aqusorias/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=203153&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="<built-in method lower of str object at 0x000002523F1A9620> logo"/>
-  </a>
+  </a><img width="12"/>
   
   <a href="" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=W.I.P&color=7289da&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="<built-in method lower of str object at 0x000002523F1A9620> logo"/>
-  </a>
+  </a><img width="12"/>
   
   <a href="https://www.instagram.com/aqusorias/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=e4405f&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="<built-in method lower of str object at 0x000002523F1A9620> logo"/>

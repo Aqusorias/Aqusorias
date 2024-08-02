@@ -5,27 +5,17 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://steamcommunity.com/id/Aqusorias/" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="87.25" height="28" role="img" aria-label="STEAM">
-      <rect width="87.25" height="28" fill="#203153"/>
-      <text x="50%" y="50%" fill="#fff" font-size="16" text-anchor="middle" dominant-baseline="central">STEAM</text>
-    </svg>
+      <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=203153&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="<built-in method lower of str object at 0x000002523F1A9620> logo"/>
   </a>
-
+  
   <a href="" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="159" height="28" role="img" aria-label="W.I.P: DISCORD">
-      <rect width="159" height="28" fill="#7289da"/>
-      <text x="50%" y="50%" fill="#fff" font-size="16" text-anchor="middle" dominant-baseline="central">W.I.P: DISCORD</text>
-    </svg>
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=W.I.P&color=7289da&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="<built-in method lower of str object at 0x000002523F1A9620> logo"/>
   </a>
-
+  
   <a href="https://www.instagram.com/aqusorias/" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="123.25" height="28" role="img" aria-label="INSTAGRAM">
-      <rect width="123.25" height="28" fill="#e4405f"/>
-      <text x="50%" y="50%" fill="#fff" font-size="16" text-anchor="middle" dominant-baseline="central">INSTAGRAM</text>
-    </svg>
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=e4405f&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="<built-in method lower of str object at 0x000002523F1A9620> logo"/>
   </a>
 </div>
-
 
 ###
 

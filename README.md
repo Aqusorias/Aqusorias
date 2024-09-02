@@ -36,7 +36,7 @@
 <p align="left">I'm Aqusorias and I am from Austria.
   <br><br>- 🔭 I’m currently a student in Information Technology, where I primarily learn Java, C#, and more.
   <br>- 📚 I'm currently learning and coding in Java, C#, Python, Javascript and HTML & CSS. I also have been working on a game in Unreal Engine 5.3.
-  <br>- ⚡ In my free time I draw (I'm posting my art on my Instagram), I'm primarily playing video games and I do parkour.
+  <br>- ⚡ In my free time I draw (I'm posting my art on my Instagram), I'm primarily playing video games and I'm making music from time to time.
 </p>
 
 ###

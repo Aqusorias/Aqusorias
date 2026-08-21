@@ -80,11 +80,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"/><img width="12"/>
 
 ###
-
-<h3 align="left">🔥   My Stats:</h3>
-
-###
-
-![GitHub Metrics](./github-metrics.svg)
-
-###
